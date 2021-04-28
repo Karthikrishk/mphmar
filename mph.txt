@@ -5,4 +5,9 @@ Hello All
 it is my git
 =======
 karthi here
+<<<<<<< HEAD
 >>>>>>> refs/remotes/origin/main
+=======
+chnages done
+...
+>>>>>>> 65a41c091bd80a932eb7c297f46aa4c011304143
