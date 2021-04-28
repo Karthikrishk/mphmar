@@ -1,4 +1,8 @@
 Hello All
+<<<<<<< HEAD
 
 
 it is my git
+=======
+karthi here
+>>>>>>> refs/remotes/origin/main
